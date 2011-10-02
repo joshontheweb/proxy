@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "proxy",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshontheweb/proxy.git"
+  },
+  "engines": {
+    "node": "~v0.4.12"
+  },
+  "dependencies": {
+    "http-proxy": "~0.7.0"
+  },
+  "devDependencies": {}
+}
