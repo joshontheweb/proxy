@@ -10,7 +10,7 @@
     "node": "~v0.4.12"
   },
   "dependencies": {
-    "http-proxy": "~0.7.0"
+    "bouncy": "~1.0.5"
   },
   "devDependencies": {}
 }
